@@ -307,14 +307,14 @@ function About() {
             <div className="avatar">SB</div>
             <h3>Sahil Bhardwaj</h3>
             <p>Full Stack Developer</p>
-            <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/sahil-bhardwaj-4a1627294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
 
           <div className="about-card">
-            <div className="avatar">TM</div>
-            <h3>Team Member</h3>
-            <p>Database / FrontEnd Contributor</p>
-            <a href="#" target="_blank" rel="noreferrer">LinkedIn</a>
+            <div className="avatar">RA</div>
+            <h3>Rehan Ahamad Ansari</h3>
+            <p>Full Stack Developer</p>
+            <a href="https://www.linkedin.com/in/rehan-ahamad-767aw?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">LinkedIn</a>
           </div>
         </div>
       </div>
